@@ -11,6 +11,7 @@
     align-items: center;
 }
 
+
 .time-select, .sound-picker, .player-container{
 height: 80vh;
 flex:1;
@@ -31,6 +32,12 @@ align-items: center;
     left:50%;
     transform: translate(-50%, -50%) rotate(-90deg);
     pointer-events: none;
+}
+
+.player-container img{
+    cursor: pointer;
+    height: 18%;
+
 }
  
 
@@ -53,7 +60,8 @@ video{
 color: white;
 width: 30%;
 height: 10%;
-background: none;
+background: #222222;
+opacity: 0.8;
 border: 2px solid black;
 cursor: pointer;
 border-radius: 5px;
@@ -64,6 +72,7 @@ transition: all 0.5s ease;
 .time-select button:hover{
     color:black;
     background: white;
+    opacity: 1;
 }
 
 .sound-picker button{
@@ -101,7 +110,7 @@ footer{
     margin-left: 36rem;
     margin-right: auto;
   
-    color: #00ff66;
+    color: #45009e;
     font-size: 1.5rem;
     font-weight: bold;
    }
