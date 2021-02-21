@@ -14,7 +14,7 @@
 ## 📝 Description
 
 >💻 Meditation is a practice where an individual uses a technique such as mindfulness, or focusing the mind on a particular object, thought, or activity  to train attention and awareness, 
-the Meditation App purpose is to facilitate and help this daily activity to achieve its full potential.
+the Meditation App purpose is to facilitate and help this daily activity to achieve its full potential, , the project was created Dev ED in order to practice HTML, CSS and JavaScript.
 
 
 
